@@ -7,8 +7,6 @@
 
 ---
 
-<br>
-
 I'm a Software engineer excited about building applications that solve real-world problems. I achieve this by utilizing the MERN stack to build intuitive frontend and backend systems. With my creative and problem-solving skills, I'm able to make critical decisions, through teamwork, collaborations, and projects.
 
 **Here's a quick summary about me**:
