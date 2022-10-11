@@ -1,6 +1,10 @@
 # Hello there, I'm Prosper Emebo 👋🏾
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prosperemebo&show_icons=true&include_all_commits=true&hide_border=true" alt="Prosper's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperemebo&langs_count=8&layout=compact&hide_border=true" alt="Prosper's GitHub stats" />
+![Prosper's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperemebo&show_icons=true&theme=radical)
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperemebo&langs_count=8&layout=compact&hide_border=true" alt="Prosper's GitHub stats" />
+
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-PROSPEREMEBO-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prosper-emebo-139623243/)](https://www.linkedin.com/in/prosper-emebo-139623243/) [![Twitter Badge](https://img.shields.io/badge/-@prosperemebo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/prosperemebo)](https://twitter.com/prosperemebo)
 [![Devto Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/prosperemebo)
