@@ -17,24 +17,7 @@ I'm a Software engineer excited about building applications that solve real-worl
 
 - 🌱 I’m currently building projects with Node.js
 - 👀 I’m interested in the Javascript ecosystem for MERN developers
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer or UI Engineer.
-- 💞️ I’m looking to collaborate on fullstack projects, I can also jump on fun web3 projects. (I've work on an NFT project before)
-- 📫 You can [view my resume](https://drive.google.com/file/d/13_BAFIioIEXir3EtZVlJRjbewzlq-ZU0/view?usp=sharing) and contact me by emailing to emeboprosper@gmail.com.
-
-
-
-<!--
-**prosperemebo/prosperemebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💞️ I’m looking to collaborate on full-stack projects, I can also jump on fun web3 projects. (I've worked on an NFT project before)
+- 📫 You can [view my resume]([https://drive.google.com/file/d/13_BAFIioIEXir3EtZVlJRjbewzlq-ZU0/view?usp=sharing](https://drive.google.com/file/d/1r7XOAlVcaIAqf1T1Ca3Uxu4V438acKTd/view?usp=sharing)) and contact me by emailing to emeboprosper@gmail.com.
